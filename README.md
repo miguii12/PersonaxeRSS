@@ -1,1 +1,1 @@
-Paxina de personaxes e tips RSS
+Paxina de personaxes e feeds RSS
