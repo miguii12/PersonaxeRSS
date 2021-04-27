@@ -1,10 +1,29 @@
-<rss>
-  <channel>
-    <title></title>
-      <item>
-        <titulo></titulo>
-        <ligazon></ligazon>
-        <descricion></descricion>
-      </item>
-  </channel>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>PersonaxeRSS</title>
+  <link>https://miguii12.github.io/PersonaxeRSS/</link>
+  <description>PersonaxeRSS</description>
+  <item>
+    <title>Dominic Toretto</title>
+    <link>https://miguii12.github.io/PersonaxeRSS/dominicToretto.html</link>
+    <description>Infromación sobre Dominic Toretto</description>
+  </item>
+  <item>
+    <title>Roman Pearce</title>
+    <link>https://miguii12.github.io/PersonaxeRSS/romanPearce.html</link>
+    <description>Infromación sobre Roman Pearce</description>
+  </item>
+  <item>
+    <title>Mia Toretto</title>
+    <link>https://miguii12.github.io/PersonaxeRSS/miaToretto.html</link>
+    <description>Infromación sobre Mia Toretto</description>
+  </item>
+  <item>
+    <title>Letty Ortiz</title>
+    <link>https://miguii12.github.io/PersonaxeRSS/lettyOrtiz.html</link>
+    <description>Infromación sobre Letty Ortiz</description>
+  </item>
+</channel>
 </rss>
