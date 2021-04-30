@@ -5,6 +5,11 @@
   <title>PersonaxeRSS</title>
   <link>https://miguii12.github.io/PersonaxeRSS/</link>
   <description>PersonaxeRSS</description>
+  <image>
+    <url></url>
+    <title></title>
+    <link></link>
+  </image>
   <item>
     <title>Dominic Toretto</title>
     <link>https://miguii12.github.io/PersonaxeRSS/dominicToretto.html</link>
